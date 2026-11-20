@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 5vw;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: helvetica, sans-serif;  
+}
+
+table{
+  font-family: "Times New Roman", Times, serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+footer {
+  text-align: left;
+  padding-top: 12px;
+}
