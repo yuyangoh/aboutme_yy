@@ -14,11 +14,11 @@ h1 {
 table{
   font-family: helvetica, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 90%;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 0px solid #dddddd;
   text-align: left;
   padding: 11px;
 }
