@@ -1,11 +1,13 @@
 body {
   font-family: helvetica, sans-serif;
-  margin: 5vw;
-  font-size: 12px;
+  margin: 4vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  font-size: 13px;
 }
 
 h1 {
-    font-size: 16px;
+    font-size: 17px;
     font-family: helvetica, sans-serif;  
 }
 
