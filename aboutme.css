@@ -1,11 +1,11 @@
 body {
   font-family: helvetica, sans-serif;
   margin: 5vw;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 h1 {
-    font-size: 19px;
+    font-size: 16px;
     font-family: helvetica, sans-serif;  
 }
 
@@ -24,13 +24,13 @@ td, th {
 a:link {
   color: #386AE3;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
   color: #745688;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 footer {
